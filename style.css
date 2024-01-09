@@ -118,6 +118,12 @@ header h1 {
 	margin: 0 5px 20px;
 	font-weight: 700;
 }
+.hide {
+	display: none;
+}
+.show {
+	display: block;
+}
 
 @media (max-width: 500px) {
 	.items li {
